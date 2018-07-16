@@ -6,7 +6,7 @@
   
   <servlet>
   	<servlet-name>dispatcher</servlet-name>
-  	<servlet-class>org.springframework.web.servlet.Dispatcherservlet</servlet-class>
+  	<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
   	<init-param>
   		<param-name>contextConfigLocation</param-name>
   		<param-value>classpath:springContext.xml</param-value>
