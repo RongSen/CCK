@@ -8,64 +8,64 @@
 
 <script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 
-<script type="text/javascript" src="js/plugins/forms/ui.spinner.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/ui.spinner.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.mousewheel.js"></script>
  
 <script type="text/javascript" src="http://apps.bdimg.com/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
 
-<script type="text/javascript" src="js/plugins/charts/excanvas.min.js"></script>
-<script type="text/javascript" src="js/plugins/charts/jquery.flot.js"></script>
-<script type="text/javascript" src="js/plugins/charts/jquery.flot.orderBars.js"></script>
-<script type="text/javascript" src="js/plugins/charts/jquery.flot.pie.js"></script>
-<script type="text/javascript" src="js/plugins/charts/jquery.flot.resize.js"></script>
-<script type="text/javascript" src="js/plugins/charts/jquery.sparkline.min.js"></script>
+<script type="text/javascript" src="resources/js/plugins/charts/excanvas.min.js"></script>
+<script type="text/javascript" src="resources/js/plugins/charts/jquery.flot.js"></script>
+<script type="text/javascript" src="resources/js/plugins/charts/jquery.flot.orderBars.js"></script>
+<script type="text/javascript" src="resources/js/plugins/charts/jquery.flot.pie.js"></script>
+<script type="text/javascript" src="resources/js/plugins/charts/jquery.flot.resize.js"></script>
+<script type="text/javascript" src="resources/js/plugins/charts/jquery.sparkline.min.js"></script>
 
-<script type="text/javascript" src="js/plugins/tables/jquery.dataTables.js"></script>
-<script type="text/javascript" src="js/plugins/tables/jquery.sortable.js"></script>
-<script type="text/javascript" src="js/plugins/tables/jquery.resizable.js"></script>
+<script type="text/javascript" src="resources/js/plugins/tables/jquery.dataTables.js"></script>
+<script type="text/javascript" src="resources/js/plugins/tables/jquery.sortable.js"></script>
+<script type="text/javascript" src="resources/js/plugins/tables/jquery.resizable.js"></script>
 
-<script type="text/javascript" src="js/plugins/forms/autogrowtextarea.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.uniform.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.inputlimiter.min.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.tagsinput.min.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.maskedinput.min.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.autotab.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.chosen.min.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.dualListBox.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.cleditor.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.ibutton.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.validationEngine-en.js"></script>
-<script type="text/javascript" src="js/plugins/forms/jquery.validationEngine.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/autogrowtextarea.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.uniform.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.inputlimiter.min.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.tagsinput.min.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.maskedinput.min.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.autotab.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.chosen.min.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.dualListBox.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.cleditor.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.ibutton.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.validationEngine-en.js"></script>
+<script type="text/javascript" src="resources/js/plugins/forms/jquery.validationEngine.js"></script>
 
-<script type="text/javascript" src="js/plugins/uploader/plupload.js"></script>
-<script type="text/javascript" src="js/plugins/uploader/plupload.html4.js"></script>
-<script type="text/javascript" src="js/plugins/uploader/plupload.html5.js"></script>
-<script type="text/javascript" src="js/plugins/uploader/jquery.plupload.queue.js"></script>
+<script type="text/javascript" src="resources/js/plugins/uploader/plupload.js"></script>
+<script type="text/javascript" src="resources/js/plugins/uploader/plupload.html4.js"></script>
+<script type="text/javascript" src="resources/js/plugins/uploader/plupload.html5.js"></script>
+<script type="text/javascript" src="resources/js/plugins/uploader/jquery.plupload.queue.js"></script>
 
-<script type="text/javascript" src="js/plugins/wizards/jquery.form.wizard.js"></script>
-<script type="text/javascript" src="js/plugins/wizards/jquery.validate.js"></script>
-<script type="text/javascript" src="js/plugins/wizards/jquery.form.js"></script>
+<script type="text/javascript" src="resources/js/plugins/wizards/jquery.form.wizard.js"></script>
+<script type="text/javascript" src="resources/js/plugins/wizards/jquery.validate.js"></script>
+<script type="text/javascript" src="resources/js/plugins/wizards/jquery.form.js"></script>
 
-<script type="text/javascript" src="js/plugins/ui/jquery.collapsible.min.js"></script>
-<script type="text/javascript" src="js/plugins/ui/jquery.breadcrumbs.js"></script>
-<script type="text/javascript" src="js/plugins/ui/jquery.tipsy.js"></script>
-<script type="text/javascript" src="js/plugins/ui/jquery.progress.js"></script>
-<script type="text/javascript" src="js/plugins/ui/jquery.timeentry.min.js"></script>
-<script type="text/javascript" src="js/plugins/ui/jquery.colorpicker.js"></script>
-<script type="text/javascript" src="js/plugins/ui/jquery.jgrowl.js"></script>
-<script type="text/javascript" src="js/plugins/ui/jquery.fancybox.js"></script>
-<script type="text/javascript" src="js/plugins/ui/jquery.fileTree.js"></script>
-<script type="text/javascript" src="js/plugins/ui/jquery.sourcerer.js"></script>
+<script type="text/javascript" src="resources/js/plugins/ui/jquery.collapsible.min.js"></script>
+<script type="text/javascript" src="resources/js/plugins/ui/jquery.breadcrumbs.js"></script>
+<script type="text/javascript" src="resources/js/plugins/ui/jquery.tipsy.js"></script>
+<script type="text/javascript" src="resources/js/plugins/ui/jquery.progress.js"></script>
+<script type="text/javascript" src="resources/js/plugins/ui/jquery.timeentry.min.js"></script>
+<script type="text/javascript" src="resources/js/plugins/ui/jquery.colorpicker.js"></script>
+<script type="text/javascript" src="resources/js/plugins/ui/jquery.jgrowl.js"></script>
+<script type="text/javascript" src="resources/js/plugins/ui/jquery.fancybox.js"></script>
+<script type="text/javascript" src="resources/js/plugins/ui/jquery.fileTree.js"></script>
+<script type="text/javascript" src="resources/js/plugins/ui/jquery.sourcerer.js"></script>
 
-<script type="text/javascript" src="js/plugins/others/jquery.fullcalendar.js"></script>
-<script type="text/javascript" src="js/plugins/others/jquery.elfinder.js"></script>
+<script type="text/javascript" src="resources/js/plugins/others/jquery.fullcalendar.js"></script>
+<script type="text/javascript" src="resources/js/plugins/others/jquery.elfinder.js"></script>
 
-<script type="text/javascript" src="js/plugins/ui/jquery.easytabs.min.js"></script>
-<script type="text/javascript" src="js/files/bootstrap.js"></script>
-<script type="text/javascript" src="js/files/functions.js"></script>
+<script type="text/javascript" src="resources/js/plugins/ui/jquery.easytabs.min.js"></script>
+<script type="text/javascript" src="resources/js/files/bootstrap.js"></script>
+<script type="text/javascript" src="resources/js/files/functions.js"></script>
 
-<script type="text/javascript" src="js/charts/chart.js"></script>
-<script type="text/javascript" src="js/charts/hBar_side.js"></script>
+<script type="text/javascript" src="resources/js/charts/chart.js"></script>
+<script type="text/javascript" src="resources/js/charts/hBar_side.js"></script>
 
 </head>
 
@@ -73,22 +73,22 @@
 
 <!-- Style switcher -->
 <div class="switcher">
-	<a href="#" title="" class="pat1"><img src="images/switcher/2.png" alt="" /></a>
-    <a href="#" title="" class="pat2"><img src="images/switcher/3.png" alt="" /></a>
-    <a href="#" title="" class="pat3"><img src="images/switcher/4.png" alt="" /></a>
-	<a href="#" title="" class="pat4"><img src="images/switcher/5.png" alt="" /></a>
-    <a href="#" title="" class="pat5"><img src="images/switcher/6.png" alt="" /></a>
-    <a href="#" title="" class="pat6"><img src="images/switcher/7.png" alt="" /></a>
-	<a href="#" title="" class="pat7"><img src="images/switcher/8.png" alt="" /></a>
-    <a href="#" title="" class="pat8"><img src="images/switcher/9.png" alt="" /></a>
-    <a href="#" title="" class="pat10"><img src="images/switcher/10.png" alt="" /></a>
-	<a href="#" title="" class="pat9"><img src="images/switcher/1.png" alt="" /></a>
+	<a href="#" title="" class="pat1"><img src="resources/images/switcher/2.png" alt="" /></a>
+    <a href="#" title="" class="pat2"><img src="resources/images/switcher/3.png" alt="" /></a>
+    <a href="#" title="" class="pat3"><img src="resources/images/switcher/4.png" alt="" /></a>
+	<a href="#" title="" class="pat4"><img src="resources/images/switcher/5.png" alt="" /></a>
+    <a href="#" title="" class="pat5"><img src="resources/images/switcher/6.png" alt="" /></a>
+    <a href="#" title="" class="pat6"><img src="resources/images/switcher/7.png" alt="" /></a>
+	<a href="#" title="" class="pat7"><img src="resources/images/switcher/8.png" alt="" /></a>
+    <a href="#" title="" class="pat8"><img src="resources/images/switcher/9.png" alt="" /></a>
+    <a href="#" title="" class="pat10"><img src="resources/images/switcher/10.png" alt="" /></a>
+	<a href="#" title="" class="pat9"><img src="resources/images/switcher/1.png" alt="" /></a>
 </div>
 
 <!-- Top line begins -->
 <div id="top">
     <div class="wrapper">
-        <a href="index.html" title="" class="logo"><img src="images/logo.png" alt="" /></a>
+        <a href="index.html" title="" class="logo"><img src="resources/images/logo.png" alt="" /></a>
         
         <!-- Right top nav -->
         <div class="topNav">
@@ -161,7 +161,7 @@
 <div id="sidebar">
     <div class="mainNav">
         <div class="user">
-            <a title="" class="leftUserDrop"><img src="images/user.png" alt="" /><span><strong>3</strong></span></a><span>Eugene</span>
+            <a title="" class="leftUserDrop"><img src="resources/images/user.png" alt="" /><span><strong>3</strong></span></a><span>Eugene</span>
             <ul class="leftUser">
                 <li><a href="#" title="" class="sProfile">My profile</a></li>
                 <li><a href="#" title="" class="sMessages">Messages</a></li>
@@ -190,8 +190,8 @@
         
         <!-- Main nav -->
         <ul class="nav">
-            <li><a href="index.html" title="" class="active"><img src="images/icons/mainnav/dashboard.png" alt="" /><span>Dashboard</span></a></li>
-            <li><a href="ui.html" title=""><img src="images/icons/mainnav/ui.png" alt="" /><span>UI elements</span></a>
+            <li><a href="index.html" title="" class="active"><img src="resources/images/icons/mainnav/dashboard.png" alt="" /><span>Dashboard</span></a></li>
+            <li><a href="ui.html" title=""><img src="resources/images/icons/mainnav/ui.png" alt="" /><span>UI elements</span></a>
                 <ul>
                     <li><a href="ui.html" title=""><span class="icol-fullscreen"></span>General elements</a></li>
                     <li><a href="ui_icons.html" title=""><span class="icol-images2"></span>Icons</a></li>
@@ -201,7 +201,7 @@
                     <li><a href="ui_experimental.html" title=""><span class="icol-beta"></span>Experimental</a></li>
                 </ul>
             </li>
-            <li><a href="forms.html" title=""><img src="images/icons/mainnav/forms.png" alt="" /><span>Forms stuff</span></a>
+            <li><a href="forms.html" title=""><img src="resources/images/icons/mainnav/forms.png" alt="" /><span>Forms stuff</span></a>
                 <ul>
                     <li><a href="forms.html" title=""><span class="icol-list"></span>Inputs &amp; elements</a></li>
                     <li><a href="form_validation.html" title=""><span class="icol-alert"></span>Validation</a></li>
@@ -209,9 +209,9 @@
                     <li><a href="form_wizards.html" title=""><span class="icol-signpost"></span>Form wizards</a></li>
                 </ul>
             </li>
-            <li><a href="messages.html" title=""><img src="images/icons/mainnav/messages.png" alt="" /><span>Messages</span></a></li>
-            <li><a href="statistics.html" title=""><img src="images/icons/mainnav/statistics.png" alt="" /><span>Statistics</span></a></li>
-            <li><a href="tables.html" title=""><img src="images/icons/mainnav/tables.png" alt="" /><span>Tables</span></a>
+            <li><a href="messages.html" title=""><img src="resources/images/icons/mainnav/messages.png" alt="" /><span>Messages</span></a></li>
+            <li><a href="statistics.html" title=""><img src="resources/images/icons/mainnav/statistics.png" alt="" /><span>Statistics</span></a></li>
+            <li><a href="tables.html" title=""><img src="resources/images/icons/mainnav/tables.png" alt="" /><span>Tables</span></a>
                 <ul>
                     <li><a href="tables.html" title=""><span class="icol-frames"></span>Standard tables</a></li>
                     <li><a href="tables_dynamic.html" title=""><span class="icol-refresh"></span>Dynamic table</a></li>
@@ -219,7 +219,7 @@
                     <li><a href="tables_sortable.html" title=""><span class="icol-transfer"></span>Sortable and resizable</a></li>
                 </ul>
             </li>
-            <li><a href="other_calendar.html" title=""><img src="images/icons/mainnav/other.png" alt="" /><span>Other pages</span></a>
+            <li><a href="other_calendar.html" title=""><img src="resources/images/icons/mainnav/other.png" alt="" /><span>Other pages</span></a>
                 <ul>
                     <li><a href="other_calendar.html" title=""><span class="icol-dcalendar"></span>Calendar</a></li>
                     <li><a href="other_gallery.html" title=""><span class="icol-images2"></span>Images gallery</a></li>
@@ -278,7 +278,7 @@
                         <ul class="filesDown">
                             <li class="currentFile">
                                 <div class="fileProcess">
-                                    <img src="images/elements/loaders/10s.gif" alt="" class="loader" />
+                                    <img src="resources/images/elements/loaders/10s.gif" alt="" class="loader" />
                                     <strong>Homepage_widgets_102.psd</strong>
                                     <div class="fileProgress">
                                         <span>9.1 of 17MB</span> - <span>243KB/sec</span> - <span>1 min</span>
@@ -321,7 +321,7 @@
                     <ul class="userList">
                         <li>
                             <a href="#" title="">
-                                <img src="images/live/face1.png" alt="" />
+                                <img src="resources/images/live/face1.png" alt="" />
                                 <span class="contactName">
                                     <strong>Eugene Kopyov <span>(5)</span></strong>
                                     <i>web &amp; ui designer</i>
@@ -332,7 +332,7 @@
                         </li>
                         <li>
                             <a href="#" title="">
-                                <img src="images/live/face2.png" alt="" />
+                                <img src="resources/images/live/face2.png" alt="" />
                                 <span class="contactName">
                                     <strong>Lucy Wilkinson <span>(12)</span></strong>
                                     <i>Team leader</i>
@@ -343,7 +343,7 @@
                         </li>
                         <li>
                             <a href="#" title="">
-                                <img src="images/live/face3.png" alt="" />
+                                <img src="resources/images/live/face3.png" alt="" />
                                 <span class="contactName">
                                     <strong>John Dow</strong>
                                     <i>PHP developer</i>
@@ -512,15 +512,15 @@
         <span class="pageTitle"><span class="icon-screen"></span>Dashboard</span>
         <ul class="quickStats">
             <li>
-                <a href="" class="blueImg"><img src="images/icons/quickstats/plus.png" alt="" /></a>
+                <a href="" class="blueImg"><img src="resources/images/icons/quickstats/plus.png" alt="" /></a>
                 <div class="floatR"><strong class="blue">5489</strong><span>visits</span></div>
             </li>
             <li>
-                <a href="" class="redImg"><img src="images/icons/quickstats/user.png" alt="" /></a>
+                <a href="" class="redImg"><img src="resources/images/icons/quickstats/user.png" alt="" /></a>
                 <div class="floatR"><strong class="blue">4658</strong><span>users</span></div>
             </li>
             <li>
-                <a href="" class="greenImg"><img src="images/icons/quickstats/money.png" alt="" /></a>
+                <a href="" class="greenImg"><img src="resources/images/icons/quickstats/money.png" alt="" /></a>
                 <div class="floatR"><strong class="blue">1289</strong><span>orders</span></div>
             </li>
         </ul>
@@ -553,7 +553,7 @@
                     <a title="">
                         <i class="icos-money3"></i>
                         <span>Invoices</span>
-                        <span><img src="images/elements/control/hasddArrow.png" alt="" /></span>
+                        <span><img src="resources/images/elements/control/hasddArrow.png" alt="" /></span>
                     </a>
                     <ul>
                         <li><a href="#" title=""><span class="icos-add"></span>New invoice</a></li>
@@ -569,11 +569,11 @@
     <!-- Main content -->
     <div class="wrapper">
         <ul class="middleNavR">
-            <li><a href="#" title="Add an article" class="tipN"><img src="images/icons/middlenav/create.png" alt="" /></a></li>
-            <li><a href="#" title="Upload files" class="tipN"><img src="images/icons/middlenav/upload.png" alt="" /></a></li>
-            <li><a href="#" title="Add something" class="tipN"><img src="images/icons/middlenav/add.png" alt="" /></a></li>
-            <li><a href="#" title="Messages" class="tipN"><img src="images/icons/middlenav/dialogs.png" alt="" /></a><strong>8</strong></li>
-            <li><a href="#" title="Check statistics" class="tipN"><img src="images/icons/middlenav/stats.png" alt="" /></a></li>
+            <li><a href="#" title="Add an article" class="tipN"><img src="resources/images/icons/middlenav/create.png" alt="" /></a></li>
+            <li><a href="#" title="Upload files" class="tipN"><img src="resources/images/icons/middlenav/upload.png" alt="" /></a></li>
+            <li><a href="#" title="Add something" class="tipN"><img src="resources/images/icons/middlenav/add.png" alt="" /></a></li>
+            <li><a href="#" title="Messages" class="tipN"><img src="resources/images/icons/middlenav/dialogs.png" alt="" /></a><strong>8</strong></li>
+            <li><a href="#" title="Check statistics" class="tipN"><img src="resources/images/icons/middlenav/stats.png" alt="" /></a></li>
         </ul>
     
     	<!-- Chart -->
@@ -610,7 +610,7 @@
                 
                 <ul class="messagesOne">
                     <li class="by_user">
-                        <a href="#" title=""><img src="images/live/face1.png" alt="" /></a>
+                        <a href="#" title=""><img src="resources/images/live/face1.png" alt="" /></a>
                         <div class="messageArea">
                             <span class="aro"></span>
                             <div class="infoRow">
@@ -627,7 +627,7 @@
                     <li class="divider"><span></span></li>
                 
                     <li class="by_me">
-                        <a href="#" title=""><img src="images/live/face2.png" alt="" /></a>
+                        <a href="#" title=""><img src="resources/images/live/face2.png" alt="" /></a>
                         <div class="messageArea">
                             <span class="aro"></span>
                             <div class="infoRow">
@@ -642,7 +642,7 @@
                     </li>
                 
                     <li class="by_me">
-                        <a href="#" title=""><img src="images/live/face2.png" alt="" /></a>
+                        <a href="#" title=""><img src="resources/images/live/face2.png" alt="" /></a>
                         <div class="messageArea">
                             <span class="aro"></span>
                             <div class="infoRow">
@@ -659,7 +659,7 @@
                     <li class="divider"><span></span></li>
                 
                     <li class="by_user">
-                        <a href="#" title=""><img src="images/live/face1.png" alt="" /></a>
+                        <a href="#" title=""><img src="resources/images/live/face1.png" alt="" /></a>
                         <div class="messageArea">
                             <span class="aro"></span>
                             <div class="infoRow">
@@ -676,7 +676,7 @@
                     <li class="divider"><span></span></li>
                 
                     <li class="by_me">
-                        <a href="#" title=""><img src="images/live/face2.png" alt="" /></a>
+                        <a href="#" title=""><img src="resources/images/live/face2.png" alt="" /></a>
                         <div class="messageArea">
                             <span class="aro"></span>
                             <div class="infoRow">
@@ -703,7 +703,7 @@
         <div class="widget">
         <div class="whead"><h6>Table with hidden toolbar</h6><div class="clear"></div></div>
         <div id="dyn" class="hiddenpars">
-            <a class="tOptions" title="Options"><img src="images/icons/options" alt="" /></a>
+            <a class="tOptions" title="Options"><img src="resources/images/icons/options" alt="" /></a>
             <table cellpadding="0" cellspacing="0" border="0" class="dTable" id="dynamic">
             <thead>
             <tr>
@@ -1092,7 +1092,7 @@
             <table cellpadding="0" cellspacing="0" width="100%" class="tDefault checkAll tMedia" id="checkAll">
                 <thead>
                     <tr>
-                        <td><img src="images/elements/other/tableArrows.png" alt="" /></td>
+                        <td><img src="resources/images/elements/other/tableArrows.png" alt="" /></td>
                         <td width="50">Image</td>
                         <td class="sortCol"><div>Description<span></span></div></td>
                         <td width="130" class="sortCol"><div>Date<span></span></div></td>
@@ -1130,7 +1130,7 @@
                 <tbody>
                     <tr>
                         <td><input type="checkbox" name="checkRow" /></td>
-                        <td><a href="images/big.png" title="" class="lightbox"><img src="images/live/face3.png" alt="" /></a></td>
+                        <td><a href="images/big.png" title="" class="lightbox"><img src="resources/images/live/face3.png" alt="" /></a></td>
                         <td class="textL"><a href="#" title="">Image1 description</a></td>
                         <td>Feb 12, 2012. 12:28</td>
                         <td class="fileInfo"><span><strong>Size:</strong> 215 Kb</span><span><strong>Format:</strong> .jpg</span></td>
@@ -1142,7 +1142,7 @@
                     </tr>
                     <tr>
                         <td><input type="checkbox" name="checkRow" /></td>
-                        <td><a href="images/big.png" title="" class="lightbox"><img src="images/live/face7.png" alt="" /></a></td>
+                        <td><a href="images/big.png" title="" class="lightbox"><img src="resources/images/live/face7.png" alt="" /></a></td>
                         <td class="textL"><a href="#" title="">Image1 description</a></td>
                         <td>Feb 12, 2012. 12:28</td>
                         <td class="fileInfo"><span><strong>Size:</strong> 215 Kb</span><span><strong>Format:</strong> .jpg</span></td>
@@ -1154,7 +1154,7 @@
                     </tr>
                     <tr>
                         <td><input type="checkbox" name="checkRow" /></td>
-                        <td><a href="images/big.png" title="" class="lightbox"><img src="images/live/face6.png" alt="" /></a></td>
+                        <td><a href="images/big.png" title="" class="lightbox"><img src="resources/images/live/face6.png" alt="" /></a></td>
                         <td class="textL"><a href="#" title="">Image1 description</a></td>
                         <td>Feb 12, 2012. 12:28</td>
                         <td class="fileInfo"><span><strong>Size:</strong> 215 Kb</span><span><strong>Format:</strong> .jpg</span></td>
@@ -1166,7 +1166,7 @@
                     </tr>
                     <tr>
                         <td><input type="checkbox" name="checkRow" /></td>
-                        <td><a href="images/big.png" title="" class="lightbox"><img src="images/live/face5.png" alt="" /></a></td>
+                        <td><a href="images/big.png" title="" class="lightbox"><img src="resources/images/live/face5.png" alt="" /></a></td>
                         <td class="textL"><a href="#" title="">Image1 description</a></td>
                         <td>Feb 12, 2012. 12:28</td>
                         <td class="fileInfo"><span><strong>Size:</strong> 215 Kb</span><span><strong>Format:</strong> .jpg</span></td>
