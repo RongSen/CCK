@@ -3,15 +3,14 @@ package com.cck2.web;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.servlet.ModelAndView;
 
 @Controller
-@RequestMapping(value= {"/"})
-public class HomeController {
+@RequestMapping(value= {"/login"})
+public class LoginController {
 
 	@RequestMapping(method=RequestMethod.GET)
-	public String index() {
+	public String login() {
 		
-		return "index";
+		return "login";
 	}
 }
