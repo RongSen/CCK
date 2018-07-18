@@ -9,7 +9,7 @@
 		http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 	
 	<!-- 扫描Spring组件 -->
-    <context:component-scan base-package="com.cck2"></context:component-scan>
+    <!-- <context:component-scan base-package="com.cck2"></context:component-scan>
 	
 	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 		<property name="prefix">
@@ -18,5 +18,5 @@
 		<property name="suffix">
 			<value>.jsp</value>
 		</property>
-	</bean>
+	</bean> -->
 </beans>

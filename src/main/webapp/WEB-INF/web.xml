@@ -4,7 +4,7 @@
     http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
   <display-name>Archetype Created Web Application</display-name>
   
-  <servlet>
+  <!-- <servlet>
   	<servlet-name>dispatcher</servlet-name>
   	<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
   	<init-param>
@@ -26,10 +26,10 @@
   	<servlet-name>default</servlet-name>
   	<url-pattern>*.css</url-pattern>
   </servlet-mapping>
-  <!-- <servlet-mapping>
+  <servlet-mapping>
   	<servlet-name>default</servlet-name>
   	<url-pattern>*.html</url-pattern>
-  </servlet-mapping> -->
+  </servlet-mapping>
   <servlet-mapping>
   	<servlet-name>default</servlet-name>
   	<url-pattern>*.png</url-pattern>
@@ -40,5 +40,5 @@
   </context-param>
   <listener>
       <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
-  </listener>
+  </listener> -->
 </web-app>
