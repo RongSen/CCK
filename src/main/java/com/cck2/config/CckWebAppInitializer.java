@@ -8,7 +8,7 @@ public class CckWebAppInitializer extends AbstractAnnotationConfigDispatcherServ
 	@Override
 	protected Class<?>[] getRootConfigClasses() {
 		
-		return new Class<?>[] {RootConfig.class, SecurityConfig.class};
+		return new Class<?>[] {RootConfig.class};
 	}
 
 	//用于定义DispatherServlet应用上下文中的bean,返还带有@Configuration注解的类
