@@ -30,33 +30,21 @@
 	                                <label>用户名</label>
 	                                <div class="input-group input-group-icon">
 	                                    <input id="loginName" name="loginName" type="text" class="form-control bk-noradius" />
-	                                    <span class="input-group-addon">
-	                                        <span class="icon">
-	                                            <i class="fa fa-user"></i>
-	                                        </span>
-	                                    </span>
+	                                    <span class="input-group-addon"><span class="icon"><i class="fa fa-user"></i></span></span>
 	                                </div>
 	                            </div>	
 	                            <div class="form-group">
 	                                <label>密码</label>
 	                                <div class="input-group input-group-icon">
 	                                    <input id="password" name="password" type="password" class="form-control bk-noradius" />
-	                                    <span class="input-group-addon">
-	                                        <span class="icon">
-	                                            <i class="fa fa-lock"></i>
-	                                        </span>
-	                                    </span>
+	                                    <span class="input-group-addon"><span class="icon"><i class="fa fa-lock"></i></span></span>
 	                                </div>
 	                            </div>
 	                            <div class="form-group">
 	                                <label>验证码</label>
 	                                <div class="input-group input-group-icon">
 	                                    <input id="validate" name="validate" type="text" class="form-control bk-noradius" />
-	                                    <span class="input-group-addon">
-	                                        <span class="icon">
-	                                            <i class="fa fa-user"></i>
-	                                        </span>
-	                                    </span>
+	                                    <span class="input-group-addon"><span class="icon"><i class="fa fa-user"></i></span></span>
 	                                </div>
 	                            </div>	
 	                            <br/>
