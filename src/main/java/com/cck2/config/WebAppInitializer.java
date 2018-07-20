@@ -2,7 +2,7 @@ package com.cck2.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
-public class CckWebAppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
+public class WebAppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 
 	//用于定义ContextLocationListener应用上下文中的bean,返还带有@Configuration注解的类
 	@Override
