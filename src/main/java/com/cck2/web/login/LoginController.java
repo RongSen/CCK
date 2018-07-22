@@ -10,18 +10,18 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.cck2.web.sys.user.User;
 
 @Controller
-@RequestMapping(value= {"/admin/login"})
+@RequestMapping
 public class LoginController {
 	
-	@RequestMapping(method=RequestMethod.GET)
+	@RequestMapping(value= {"/admin/login"}, method=RequestMethod.GET)
 	public String getLoginForm() {
 		
 		return "login";
 	}
 
-	@RequestMapping(method=RequestMethod.POST)
+	@RequestMapping(value= {"/admin/login"}, method=RequestMethod.POST)
 	public String login(@ModelAttribute User user, HttpSession httpSession) {
-		System.out.println(user.getLoginName());
+
 		return "console";
 	}
 }

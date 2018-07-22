@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+/*Table表格*/
+
+/*----------分页----------*/
+.rs-pagination{margin:10px;box-shadow:none;}
+.rs-pagination ul{box-shadow:none;border-radius:0px;}
+.rs-pagination-info{margin-left: 5px;display:inline-block;line-height: 30px;}
+.rs-pagination-info form{margin:0px ;}
+.rs-pagination-info input{width: 30px;text-align: center;margin: -3px 4px 0px 4px;height:33px;}
+.rs-pagination ul > li > a.fjzx-prog-prev
+,.rs-pagination ul > li > a.fjzx-prog-next
+{font-size: 16px;}
+.rs-pagination ul > li:first-child > a
+, .rs-pagination ul > li:first-child > span
+, .rs-pagination ul > li:last-child > a
+, .rs-pagination ul > li:last-child > span
+{border-radius:0px;}
+
+.page-active {color: #fff; background-color: #34495E; border-color: #435D78;}
+.page-active:hover {color: #fff; background-color: #34495E; border-color: #435D78;}
+.page-default:hover {color: #fff; background-color: #34495E; border-color: #435D78;}
+.page-disabled {color:#333;background-color: transparent;border-color: #e3e6f3;/*background-color:#1483cc;*/}
+
+/*-----------查询-------------*/
+ul li {list-style:none;}
+.search-form-input-container {width:100%;height:auto;margin-bottom:6px;position:relative}
+.search-form-input-container > ul {}
+.search-form-input-container > ul > li {width:25%;min-width:400px;min-height:48px;line-height:34px;float:left;position:relative;}
+.search-form-input-container .control-label {display:inline-block;width:100%;margin-right:8px;text-align:right;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;;}
+.search-form-input-container > ul > li .controls {position:absolute;left:110px;right:0;top:0;bottom:0px;}
+
+/*.search-form-button-container {border:1px solid #ddd;background-color:#f5f5f5;padding:8px;}*/
+.rs-prog-query-form-input-list input,.rs-prog-query-form-input-list .rs-prog-dropdown {margin-bottom:0px}
+
+ul.rs-prog-query-form-input-list>li.rs-prog-query-form-list-item-collapsed {display:none;}
+button.rs-prog-button-query-form-expand {display:none;}
+button.rs-prog-button-query-form-collapse {display:none;}
+
+@media (min-width: 768px) {	
+}
+@media (min-width: 992px) {}
+@media (min-width: 1200px) {}

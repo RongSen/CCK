@@ -1,5 +1,11 @@
 package com.cck2.web.sys.user;
 
+import javax.persistence.Entity;
+import javax.persistence.Table;
+import javax.persistence.UniqueConstraint;
+
+@Entity//@Entity(name = "sys_user")
+@Table(name = "sys_user")
 public class User {
 
 	public String loginName;

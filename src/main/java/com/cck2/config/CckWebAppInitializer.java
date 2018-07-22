@@ -24,5 +24,4 @@ public class CckWebAppInitializer extends AbstractAnnotationConfigDispatcherServ
 		
 		return new String[] {"/"};
 	}
-
 }

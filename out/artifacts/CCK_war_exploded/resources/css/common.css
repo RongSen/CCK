@@ -1,0 +1,58 @@
+/* HTML元素初始化样式 */
+a {
+	cursor:pointer;	
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:none;
+}
+
+/* 页码样式 */
+.rs-page-container {
+	margin-left:-5px;
+	display:table;
+	content:" ";
+}
+
+.disable {
+	disabled:"disabled";
+}
+
+.rs-page-common {	
+	position:relative;
+	float:left;
+	
+	display:inline-block;
+	padding:6px 12px;
+	margin-bottom:0px;
+	font-size:14px;
+	font-weight:normal;
+	line-height:1.42857143;
+	text-align:center;
+	vertical-align:middle;
+	cursor:pointer;	
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	user-select:none;
+	background-image:none;
+	border:1px solid transparent;
+	border-radius:4px;
+}
+
+.rs-pagea-ctive {
+	color:#fff;
+	background-color:#435D78;
+	border-color:#285e8e;
+}
+
+.rs-page-info {
+	margin-left:1px;
+	position:relative;
+	float:left;
+	color:#333;
+	background-color:#fff;
+	border-color:#ccc;
+	white-space:normal;
+	border:0px solid transparent;
+}

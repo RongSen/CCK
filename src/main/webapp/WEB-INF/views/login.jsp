@@ -1,5 +1,5 @@
-<%@ page language="java" pageEncoding="UTF-8" errorPage="error.jsp"%>
-<%@ taglib prefix="rs" tagdir="/WEB-INF/tags/" %>
+<%@ page language="java" pageEncoding="UTF-8" errorPage="error_404.jsp"%>
+<%@ taglib prefix="rs" tagdir="/WEB-INF/tags" %>
 <!DOCTYPE html>
 <html>
   <head>
@@ -25,11 +25,11 @@
 	                        <h2 class="title"><i class="fa fa-user"></i> Login</h2>
 	                    </div>
 	                    <div class="panel-body">
-	                        <form id="loginForm" method="post" action="${basePath}admin/login">
+	                        <form id="loginForm" method="post">
 	                            <div class="form-group">
 	                                <label>用户名</label>
 	                                <div class="input-group input-group-icon">
-	                                    <input id="loginName" name="loginName" type="text" class="form-control bk-noradius" />
+	                                    <input id="loginName" name="username" type="text" class="form-control bk-noradius" />
 	                                    <span class="input-group-addon"><span class="icon"><i class="fa fa-user"></i></span></span>
 	                                </div>
 	                            </div>	
@@ -80,7 +80,7 @@
 	    </div>
 	</div>
     <rs:script />
-    <rs:qxScript />
+    <%--<rs:qxScript />--%>
     <script language="javascript">
     	$(function(){
     		/* $("form#loginForm").submit(function(e){

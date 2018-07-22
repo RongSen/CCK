@@ -6,12 +6,18 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
-@RequestMapping(value= {"/"})
+@RequestMapping
 public class HomeController {
 
-	@RequestMapping(method=RequestMethod.GET)
+	@RequestMapping(value= {"/admin/console"}, method=RequestMethod.GET)
+	public String console() {
+
+		return "console";
+	}
+
+	@RequestMapping(value= {"/"}, method=RequestMethod.GET)
 	public String index() {
-		
+
 		return "redirect:/admin/login";
 	}
 }
